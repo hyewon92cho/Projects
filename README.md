@@ -10,9 +10,9 @@ Numbers
 
 **Find PI to the Nth Digit** – Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
-[**Fibonacci Sequence**](https://github.com/hyewon92cho/Projects/blob/master/Numbers/PibonacciSequence/main.go) – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+[**Fibonacci Sequence**](https://github.com/hyewon92cho/MegaProjectList/blob/master/Numbers/PibonacciSequence/main.go) – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
-**Prime Factorization** – Have the user enter a number and find all Prime Factors (if there are any) and display them.
+[**Prime Factorization**](https://github.com/hyewon92cho/MegaProjectList/blob/master/Numbers/PrimeFactorization/main.go) – Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
 **Next Prime Number** – Have the program find prime numbers until the user chooses to stop asking for the next one.
 
